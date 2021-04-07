@@ -1,4 +1,8 @@
-**VatsimNotify**
+**VATSIM Notify**
+
+**DEPRECATED**
+
+VATSIM's Data Server has updated to a new version, and no longer supports the .txt feed (*Which is a good thing!*), meaning this will no longer work. I may update at some point to add GSON. Until then, this is officially unsupported as it will no longer work.
 
 ```
 This project allows Discord to be able to recieve notifications when a controller logs into VATSIM.
